@@ -1,0 +1,36 @@
+/* . é para referenciar uma class 
+    A class é a classificação da tag, assim você pode identificar as tegs    
+*/
+
+.titulo {
+    color: rgb(242, 255, 0) !important;  /* se a estilização é importante e ela não pode ser alterada eu uso !important */
+    background-color: rgb(255, 0, 0) !important;
+}
+
+.subtitulo{
+    color: green;
+}
+
+/* body{ ---------------------- Chave/Seletor
+    margin: -------------- Propriedade 
+    0; ----------- Valor
+    font: -------------- Propriedade
+     Arial; ----------- Valor
+} */
+
+.titulo{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+}
+
+/* 
+    Layout Fluido
+    % : porcentagem -- Se aplica a todas
+    vh : viewpot height
+    vv : viewpot width
+*/
+
+
+
+
+
